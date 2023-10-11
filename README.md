@@ -2,7 +2,7 @@
 
 Introduction:
 
-Welcome to the Accounts Department Procurement Trends Analysis Project! In today's fast-paced business landscape, data-driven decision-making is essential for organizations to stay competitive and optimize their operations. This project aims to address a critical need within our company by providing valuable insights into our procurement processes and supplier relationships.
+Welcome to the Manufacturing company's Procurement Trends Analysis Project! In today's fast-paced business landscape, data-driven decision-making is essential for organizations to stay competitive and optimize their operations. This project aims to address a critical need within our company by providing valuable insights into the companies procurement processes and supplier relationships.
 
 **Background:**
 The Accounts Department of our organization diligently maintains detailed invoice records from various vendors for the parts we procure. However, the data collected is spread across different years, multiple plants, and is categorized by different business units. This diversity in data sources poses a unique challenge in extracting meaningful insights.
